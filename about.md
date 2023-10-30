@@ -1,1 +1,2 @@
-about me
+layout: post
+title: about
